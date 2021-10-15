@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Abel', sans-serif;
+}
+
+.CocoPage {
+    width: 1200px;
+    height: 600px;
+    background-image: url(images/coco.jpg);
+    background-size: 100%;
+    margin: 0 auto;
+}
+
+.logo>a {
+    border-width: 5px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 5px;
+    background-color: orange;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.logo{
+    padding-left: 550px;
+    padding-top: 100px;
+    color: white;
+}
+.logo>img{
+    width: 35%;
+    padding-left: 150px;
+
+}
+
+
+
